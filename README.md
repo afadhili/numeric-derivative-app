@@ -8,7 +8,7 @@ Calculate derivatives of functions easily using numerical methods. Enter a funct
 
 You can download the latest version of the app here:
 
-[Download APK (Releases)](https://github.com/afadhili/numeric-derivative-app/blob/main/releases/README.md)
+[Download APK (Releases)](https://github.com/afadhili/numeric-derivative-app/releases/latest)
 
 ---
 
@@ -16,7 +16,7 @@ You can download the latest version of the app here:
 
 Read the privacy policy here:
 
-[Privacy Policy](https://github.com/afadhili/numeric-derivative-app/blob/main/privacy-policy/README.md)
+[Privacy Policy](https://github.com/afadhili/numeric-derivative-app/blob/main/privacy-policy.md)
 
 ---
 
